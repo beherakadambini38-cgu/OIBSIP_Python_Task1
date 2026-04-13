@@ -4,7 +4,7 @@ A python based application to check password strenghth
 
 ---
 
-##  Overview
+##  Objective
 The **Password Strength Checker** is a Python-based project designed to evaluate the strength of a user's password. It helps users create secure passwords by analyzing different criteria such as length, characters, and complexity.
 
 ---
@@ -48,6 +48,14 @@ Strong
 
 Enter password: kaju@123
 Password Strength: medium
+## Tools Used:
+
+Programming Language: Python
+Platform: Google Colab / IDLE
+Libraries: Built-in Python functions (like re for pattern checking)
+
+## Outcome:
+The program successfully analyzes passwords and provides feedback on their strength, helping users create more secure passwords.
 
 ## Future Improvements
 Add GUI interface
