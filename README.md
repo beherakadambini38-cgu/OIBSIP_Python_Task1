@@ -51,7 +51,7 @@ Password Strength: medium
 ## Tools Used:
 
 Programming Language: Python
-Platform: Google Colab / IDLE
+Platform: Google Colab /  python IDLE
 Libraries: Built-in Python functions (like re for pattern checking)
 
 ## Outcome:
